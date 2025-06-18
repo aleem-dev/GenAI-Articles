@@ -47,6 +47,7 @@ Today’s AI powerhouses like GPT, BERT, and Claude? All based on this architect
 
 ### 🔗 Further Exploration (Recommended Reading + Tools)
 |Concept	|Resource Link|
+|-----------|-------------|
 |Tokenization   |	[OpenAI Tokenizer](https://platform.openai.com/tokenizer)|
 Embeddings	[TensorFlow Embedding Projector](https://projector.tensorflow.org/)
 Positional Encoding	[Intro Guide](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/)
