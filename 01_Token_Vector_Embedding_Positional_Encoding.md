@@ -49,10 +49,10 @@ Today’s AI powerhouses like GPT, BERT, and Claude? All based on this architect
 |Concept	|Resource Link|
 |-----------|-------------|
 |Tokenization   |	[OpenAI Tokenizer](https://platform.openai.com/tokenizer)|
-Embeddings	[TensorFlow Embedding Projector](https://projector.tensorflow.org/)
-Positional Encoding	[Intro Guide](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/)
-Self-Attention	[Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-Full Lecture Recap	[GenAI Cohort Intro](https://www.youtube.com/watch?v=6RHYkwJPJlM)
+|Embeddings	|[TensorFlow Embedding Projector](https://projector.tensorflow.org/)|
+|Positional Encoding	|[Intro Guide](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/)|
+|Self-Attention	|[Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)|
+|Full Lecture Recap	|[GenAI Cohort Intro](https://www.youtube.com/watch?v=6RHYkwJPJlM)|
 
 ### 🧑‍💻 My Development Environment
 This entire journey is hands-on, and here’s how I’ve set myself up:
