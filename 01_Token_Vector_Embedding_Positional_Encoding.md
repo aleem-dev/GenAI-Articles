@@ -1,4 +1,4 @@
-# Demystifying GenAI: From Toothbrushes to Transformers 🧠🪥
+# **Demystifying GenAI: From Toothbrushes to Transformers** 🧠🪥
 I’ve recently started the GenAI with Python Cohort by [Hitesh Choudhary](https://www.youtube.com/@chaiaurcode) and [Piyush Garg](https://x.com/piyushgarg_dev?lang=en) — a journey that is not just about learning, but unlearning misconceptions about Artificial Intelligence. This article is my reflection on the first lecture, written with the intent to give back to a community that’s empowering developers like me to dive headfirst into Generative AI.
 
 ## 🔍 Is AI Just a Word Predictor?
@@ -18,7 +18,9 @@ Once tokenized, each word is assigned a vector embedding — a list of numbers t
 
 “I ate an apple” → 🍎 (fruit)
 
-“Apple launched a new MacBook” → 💻 (company) Though the word is the same, embeddings help AI differentiate based on usage.
+“Apple launched a new MacBook” → 💻 (company) 
+
+Though the word is the same, embeddings help AI differentiate based on usage.
 
 ### 🔎 Visualize vector embeddings here: [Embedding Projector](https://projector.tensorflow.org/)
 
@@ -75,3 +77,5 @@ This is the first of many articles I’ll be writing during my GenAI journey. If
 ### 👤 [Aleem Shaikh on LinkedIn](https://www.linkedin.com/in/aleem-shaikh-54243732/)
 
 Let’s learn, build, and share — one token at a time.
+
+This article is the first of many as I explore GenAI with hands-on projects and real-world applications. I’m excited to keep learning, sharing, and growing alongside the AI community.
