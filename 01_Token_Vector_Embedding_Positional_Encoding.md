@@ -46,8 +46,11 @@ The Transformer architecture, introduced in the paper “[Attention Is All You N
 Today’s AI powerhouses like GPT, BERT, and Claude? All based on this architecture.
 
 ### 🔗 Further Exploration (Recommended Reading + Tools)
-Concept	Resource Link
-Tokenization	[OpenAI Tokenizer](https://platform.openai.com/tokenizer)
+|-----------|-------------|
+|Concept	|Resource Link|
+|-----------|-------------|
+|Tokenization   |	[OpenAI Tokenizer](https://platform.openai.com/tokenizer)|
+|-----------|-------------|
 Embeddings	[TensorFlow Embedding Projector](https://projector.tensorflow.org/)
 Positional Encoding	[Intro Guide](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/)
 Self-Attention	[Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
