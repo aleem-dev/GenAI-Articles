@@ -1,5 +1,5 @@
 # Demystifying GenAI: From Toothbrushes to Transformers 🧠🪥
-I’ve recently started the GenAI with Python Cohort by Hitesh Choudhary and Piyush Garg — a journey that is not just about learning, but unlearning misconceptions about Artificial Intelligence. This article is my reflection on the first lecture, written with the intent to give back to a community that’s empowering developers like me to dive headfirst into Generative AI.
+I’ve recently started the GenAI with Python Cohort by [Hitesh Choudhary](https://www.youtube.com/@chaiaurcode) and Piyush Garg — a journey that is not just about learning, but unlearning misconceptions about Artificial Intelligence. This article is my reflection on the first lecture, written with the intent to give back to a community that’s empowering developers like me to dive headfirst into Generative AI.
 
 ## 🔍 Is AI Just a Word Predictor?
 At its core, yes — most language models are trained to predict the next word in a sentence. Sounds simple, right? But when you peek under the hood, the sophistication is mind-blowing. Let’s explore the foundational concepts of modern AI in plain language and with relatable examples.
