@@ -96,6 +96,7 @@ Try this simple structure in your assistant to simulate continuity:
 
 ```txt
 You are responding as [Name], based on how they communicated in tickets, messages, and KBs. Use their voice, tone, diagnostic flow, and preferred tools to guide the user as they would have.
+```
 
 You can find more real-world prompts and experiments in my repo: 👉 GitHub: GenAI Cohort Experiments
 ---
